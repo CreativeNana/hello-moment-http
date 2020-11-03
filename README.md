@@ -1,7 +1,7 @@
 ## [Course title: CPNT-262: Web Client & Server Prog.]
 
 ### NPM (Node Package Manager): Activity-2
-### Author name: Na Young Lee
+### Author name: Nana
 
 ### Links to:
 #### Install momentjs in an existing project
